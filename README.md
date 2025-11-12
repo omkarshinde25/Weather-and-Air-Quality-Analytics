@@ -38,9 +38,12 @@ A star schema data model was created to establish logical relationships between 
 - Relationships established between fact and dimension tables to enable filtering and aggregation across multiple perspectives.
 This model improved performance and enabled more flexible analysis in the dashboard.
 
-## 7. DAX Measures and Dynamic Calculations
+## 7. DAX Measures and Dynamic Calculations 
 DAX (Data Analysis Expressions) played a key role in creating dynamic and interactive calculations within the dashboard. DAX was used to calculate averages, totals, and conditional summaries across multiple dimensions such as city and time period. It was also used for generating key performance indicators and comparative analysis like day-over-day or month-over-month changes.  
 The use of DAX enabled the dashboard to respond dynamically to user selections, providing real-time analytical results for temperature, humidity, rainfall, and air quality indicators.
+
+For detailed documentation of the DAX formulas used, refer to the project PDF available at:  
+[https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/DAX%20Weather%20Data%20Analysis%20Dashboard%20using%20Power%20BI.pdf](https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/DAX%20Weather%20Data%20Analysis%20Dashboard%20using%20Power%20BI.pdf)  
 
 
 ## 8. Dashboard Design and Visualization
