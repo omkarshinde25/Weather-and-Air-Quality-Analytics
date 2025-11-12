@@ -8,6 +8,10 @@ The Weather Data Analysis Dashboard is a comprehensive Power BI project develope
 ## 2. Project Overview
 This project focuses on using Power BI as a complete business intelligence solution for weather data monitoring. Data is extracted from an external API, transformed through Power Query, modeled using relationships, and visualized through interactive charts and KPIs. The final dashboard helps users understand weather patterns and supports data-driven environmental analysis.
 
+For a deeper overview of the project (including report and documentation), please visit the project report available here:  
+[Project Report – Weather Data Analysis Dashboard using Power BI](https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/Project%20Report%20-Weather%20Data%20Analysis%20Dashboard%20using%20Power%20BI.pdf)
+
+
 <img src="https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/Dashboard/Weather%20Data%20Analysis%20Dashboard.png" width="800"> <br>
 
 ## 3. Objectives
@@ -98,3 +102,6 @@ This project highlights the complete end-to-end development of a data analytics 
 - Improving data storytelling and presentation skills.
 omkar-shinde-64a479245  
 GitHub: https://github.com/omkarshinde25
+
+For a deeper overview of the project (including report and documentation), please visit the project report available here:  
+[Project Report – Weather Data Analysis Dashboard using Power BI](https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/Project%20Report%20-Weather%20Data%20Analysis%20Dashboard%20using%20Power%20BI.pdf)
