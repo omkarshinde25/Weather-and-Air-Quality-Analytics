@@ -3,8 +3,6 @@
 ## 1. Introduction
 The Weather and Air Qualytics Analysis Dashboard is a comprehensive Power BI project developed to analyze and visualize real-time and historical weather data. The goal of the project is to identify trends in temperature, humidity, rainfall, and air quality across different locations and time periods. This project demonstrates strong data analytics capabilities including data extraction, cleaning, modeling, DAX calculations, and dashboard design.
 
-<img src="https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/Dashboard/Screenshot%202025-11-12%20190355.png" width="800"> <br>
-
 ## 2. Project Overview
 This project focuses on using Power BI as a complete business intelligence solution for weather data monitoring. Data is extracted from an external API, transformed through Power Query, modeled using relationships, and visualized through interactive charts and KPIs. The final dashboard helps users understand weather patterns and supports data-driven environmental analysis.
 
